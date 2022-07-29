@@ -1,2 +1,2 @@
 # simplang
-translator of mu own programming language
+translator of my own simple programming language
